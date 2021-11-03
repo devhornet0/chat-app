@@ -6,7 +6,7 @@
 
 <script>
 import { CometChat } from '@cometchat-pro/chat';
-import './App.css';
+//import './App.css';
 
 export default {
     created() {
