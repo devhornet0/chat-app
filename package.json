@@ -10,7 +10,10 @@
   "dependencies": {
     "@cometchat-pro/chat": "^3.0.3",
     "core-js": "^3.6.5",
-    "vue": "^3.0.0"
+    "vue": "^3.0.0",
+    "dateformat": "^5.0.2",
+    "emoji-mart-vue-fast": "^10.0.1",
+    "twemoji": "^13.1.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
